@@ -1,0 +1,19 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "Node files exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byk7/Node.git"
+  },
+  "author": "bo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byk7/Node/issues"
+  },
+  "homepage": "https://github.com/byk7/Node#readme"
+}
